@@ -47,7 +47,7 @@ Consulte o arquivo `requirements.txt` para as versões específicas.
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositório>
+   git clone https://github.com/rodrili/case_qa.git
    cd case_qa
    ```
 2. **Instale as dependências:**
